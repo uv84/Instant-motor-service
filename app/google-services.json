@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "717314443658",
+    "project_id": "ims84-d1613",
+    "storage_bucket": "ims84-d1613.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:717314443658:android:f9d2192c267eb58a10a073",
+        "android_client_info": {
+          "package_name": "com.example.ims"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "717314443658-v1l339i74dj5lck7i8cupp8t5klfrb7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkqAOPPOAdQpr-gOs_OrQCdRZp-OW-n5M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "717314443658-v1l339i74dj5lck7i8cupp8t5klfrb7q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
